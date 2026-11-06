@@ -1,2 +1,2 @@
-# Salud-y-Vida-DiscoteK
+# Salud-y-Vida-discoteK
 Primer landing page de las Tesas.
